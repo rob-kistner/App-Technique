@@ -1,7 +1,7 @@
-OS Apps
-=======
+OSX Utility Apps
+================
 
-The OS helper / utility apps I use for day-to-day activities...
+The OSX helper / utility apps I use for day-to-day activities...
 
 ---
 
